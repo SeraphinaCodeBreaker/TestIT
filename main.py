@@ -29,6 +29,3 @@ elif new_vehicle == "2":
   
 elif new_vehicle == "3":
   raise SystemExit
-
-
-
